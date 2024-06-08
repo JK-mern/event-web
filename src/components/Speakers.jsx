@@ -8,9 +8,14 @@ function Speakers() {
       </h2>
 
       <div className="flex justify-center  mt-10">
-            <div className="">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Santhosh_George_Kulangara_portrait_%282016%29.jpg" alt=""  className="h-80 w-80"/>
-            </div>
+        <div className="items-center">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/7/77/Santhosh_George_Kulangara_portrait_%282016%29.jpg"
+            alt=""
+            className="h-64 w-64 rounded-full items-center"
+          />
+          <h4 className="text-center my-4 font-medium text-xl">Santhosh George Kulangara</h4>
+        </div>
       </div>
     </div>
   );

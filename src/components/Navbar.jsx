@@ -2,14 +2,14 @@ import React from "react";
 
 function Navbar() {
   return (
-    <nav className=" w-full top-0 left-0 border-b border-transparent bg-transparent z-10">
+    <nav className=" w-full top-0 left-0 border-b border-transparent bg-transparent z-40">
       <div className="max-w-screen-2xl flex flex-wrap items-center justify-between mx-auto p-4">
         <a
           href=""
           className="flex items-center space-x-3 rtl:space-x-reverse"
         >
           <span className="self-center text-3xl font-bold whitespace-nowrap text-white">
-            Event Title
+            Bake Kerala
           </span>
         </a>
         <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
