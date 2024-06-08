@@ -6,7 +6,7 @@ function HeroSection() {
     <div className="bg-heroSection h-lvh bg-cover bg-center ">
       <Navbar />
       <div className="pt-48 pb-48 md:pt-80  text-white">
-        <h2 className="max-w-screen-2xl mx-auto p-4 text-center text-3xl md:text-7xl font-bold">
+        <h2 className="max-w-screen-2xl mx-auto p-4 text-center text-3xl md:text-7xl font-extrabold">
           Discover the Next Big Thing at <br></br>Our Launch Event!
         </h2>
         <div className="flex   justify-center mt-4 gap-4 ">
